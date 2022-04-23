@@ -1,0 +1,17 @@
+C:\Users\dimasio\source\repos\Kitchen\Kitchen\bin\Debug\net6.0\Kitchen.exe
+C:\Users\dimasio\source\repos\Kitchen\Kitchen\bin\Debug\net6.0\Kitchen.deps.json
+C:\Users\dimasio\source\repos\Kitchen\Kitchen\bin\Debug\net6.0\Kitchen.runtimeconfig.json
+C:\Users\dimasio\source\repos\Kitchen\Kitchen\bin\Debug\net6.0\Kitchen.dll
+C:\Users\dimasio\source\repos\Kitchen\Kitchen\bin\Debug\net6.0\ref\Kitchen.dll
+C:\Users\dimasio\source\repos\Kitchen\Kitchen\bin\Debug\net6.0\Kitchen.pdb
+C:\Users\dimasio\source\repos\Kitchen\Kitchen\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\dimasio\source\repos\Kitchen\Kitchen\obj\Debug\net6.0\Kitchen.csproj.AssemblyReference.cache
+C:\Users\dimasio\source\repos\Kitchen\Kitchen\obj\Debug\net6.0\Kitchen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimasio\source\repos\Kitchen\Kitchen\obj\Debug\net6.0\Kitchen.AssemblyInfoInputs.cache
+C:\Users\dimasio\source\repos\Kitchen\Kitchen\obj\Debug\net6.0\Kitchen.AssemblyInfo.cs
+C:\Users\dimasio\source\repos\Kitchen\Kitchen\obj\Debug\net6.0\Kitchen.csproj.CoreCompileInputs.cache
+C:\Users\dimasio\source\repos\Kitchen\Kitchen\obj\Debug\net6.0\Kitchen.csproj.CopyComplete
+C:\Users\dimasio\source\repos\Kitchen\Kitchen\obj\Debug\net6.0\Kitchen.dll
+C:\Users\dimasio\source\repos\Kitchen\Kitchen\obj\Debug\net6.0\ref\Kitchen.dll
+C:\Users\dimasio\source\repos\Kitchen\Kitchen\obj\Debug\net6.0\Kitchen.pdb
+C:\Users\dimasio\source\repos\Kitchen\Kitchen\obj\Debug\net6.0\Kitchen.genruntimeconfig.cache

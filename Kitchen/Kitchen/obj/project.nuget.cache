@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Cn5//b56N8BsHa54/8+cO50Lk6y5YaZDai/PpLIX9LF8btEugnAM0IFF7rfi4+BmSGaVaU61CgNgRlL7OlgaoA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dimasio\\source\\repos\\Kitchen\\Kitchen\\Kitchen.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dimasio\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512",
+    "C:\\Users\\dimasio\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+C:\Users\dimasio\source\repos\Kitchen\Kitchen\bin\Debug\netcoreapp3.1\Kitchen.exe
+C:\Users\dimasio\source\repos\Kitchen\Kitchen\bin\Debug\netcoreapp3.1\Kitchen.deps.json
+C:\Users\dimasio\source\repos\Kitchen\Kitchen\bin\Debug\netcoreapp3.1\Kitchen.runtimeconfig.json
+C:\Users\dimasio\source\repos\Kitchen\Kitchen\bin\Debug\netcoreapp3.1\Kitchen.runtimeconfig.dev.json
+C:\Users\dimasio\source\repos\Kitchen\Kitchen\bin\Debug\netcoreapp3.1\Kitchen.dll
+C:\Users\dimasio\source\repos\Kitchen\Kitchen\bin\Debug\netcoreapp3.1\Kitchen.pdb
+C:\Users\dimasio\source\repos\Kitchen\Kitchen\obj\Debug\netcoreapp3.1\Kitchen.csprojAssemblyReference.cache
+C:\Users\dimasio\source\repos\Kitchen\Kitchen\obj\Debug\netcoreapp3.1\Kitchen.AssemblyInfoInputs.cache
+C:\Users\dimasio\source\repos\Kitchen\Kitchen\obj\Debug\netcoreapp3.1\Kitchen.AssemblyInfo.cs
+C:\Users\dimasio\source\repos\Kitchen\Kitchen\obj\Debug\netcoreapp3.1\Kitchen.csproj.CoreCompileInputs.cache
+C:\Users\dimasio\source\repos\Kitchen\Kitchen\obj\Debug\netcoreapp3.1\Kitchen.dll
+C:\Users\dimasio\source\repos\Kitchen\Kitchen\obj\Debug\netcoreapp3.1\Kitchen.pdb
+C:\Users\dimasio\source\repos\Kitchen\Kitchen\obj\Debug\netcoreapp3.1\Kitchen.genruntimeconfig.cache
+C:\Users\dimasio\source\repos\Kitchen\Kitchen\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\dimasio\source\repos\Kitchen\Kitchen\obj\Debug\netcoreapp3.1\Kitchen.csproj.CopyComplete

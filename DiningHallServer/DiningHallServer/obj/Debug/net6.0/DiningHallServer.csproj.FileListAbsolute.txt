@@ -1,0 +1,17 @@
+C:\Users\dimasio\source\repos\DiningHallServer\DiningHallServer\bin\Debug\net6.0\DiningHallServer.exe
+C:\Users\dimasio\source\repos\DiningHallServer\DiningHallServer\bin\Debug\net6.0\DiningHallServer.deps.json
+C:\Users\dimasio\source\repos\DiningHallServer\DiningHallServer\bin\Debug\net6.0\DiningHallServer.runtimeconfig.json
+C:\Users\dimasio\source\repos\DiningHallServer\DiningHallServer\bin\Debug\net6.0\DiningHallServer.dll
+C:\Users\dimasio\source\repos\DiningHallServer\DiningHallServer\bin\Debug\net6.0\ref\DiningHallServer.dll
+C:\Users\dimasio\source\repos\DiningHallServer\DiningHallServer\bin\Debug\net6.0\DiningHallServer.pdb
+C:\Users\dimasio\source\repos\DiningHallServer\DiningHallServer\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\dimasio\source\repos\DiningHallServer\DiningHallServer\obj\Debug\net6.0\DiningHallServer.csproj.AssemblyReference.cache
+C:\Users\dimasio\source\repos\DiningHallServer\DiningHallServer\obj\Debug\net6.0\DiningHallServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimasio\source\repos\DiningHallServer\DiningHallServer\obj\Debug\net6.0\DiningHallServer.AssemblyInfoInputs.cache
+C:\Users\dimasio\source\repos\DiningHallServer\DiningHallServer\obj\Debug\net6.0\DiningHallServer.AssemblyInfo.cs
+C:\Users\dimasio\source\repos\DiningHallServer\DiningHallServer\obj\Debug\net6.0\DiningHallServer.csproj.CoreCompileInputs.cache
+C:\Users\dimasio\source\repos\DiningHallServer\DiningHallServer\obj\Debug\net6.0\DiningHallServer.csproj.CopyComplete
+C:\Users\dimasio\source\repos\DiningHallServer\DiningHallServer\obj\Debug\net6.0\DiningHallServer.dll
+C:\Users\dimasio\source\repos\DiningHallServer\DiningHallServer\obj\Debug\net6.0\ref\DiningHallServer.dll
+C:\Users\dimasio\source\repos\DiningHallServer\DiningHallServer\obj\Debug\net6.0\DiningHallServer.pdb
+C:\Users\dimasio\source\repos\DiningHallServer\DiningHallServer\obj\Debug\net6.0\DiningHallServer.genruntimeconfig.cache

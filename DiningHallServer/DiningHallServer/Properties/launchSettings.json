@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "DiningHallServer": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}

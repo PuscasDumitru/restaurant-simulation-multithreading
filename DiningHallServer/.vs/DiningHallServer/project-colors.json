@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6f7cd80c-37c8-4ca8-a71f-c0b62799a6dd": {
+      "ProjectGuid": "6f7cd80c-37c8-4ca8-a71f-c0b62799a6dd",
+      "DisplayName": "DiningHallServer",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
