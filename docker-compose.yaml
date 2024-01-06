@@ -1,0 +1,19 @@
+version: "3"
+
+services:
+
+  # Kitchen container
+  kitchen:
+    container_name: kitchen
+    image: dpuscas/kitchen
+    ports: 
+      - '8080:80'
+
+  # Hall server container
+  hallserver:
+    container_name: hallserver
+    image: dpuscas/dininghall
+    ports: 
+      - '8081:80'
+
+    
